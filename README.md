@@ -15,7 +15,7 @@ The assessment does not identify outliers in the data. For programs whose data a
 You need Python 3.9 or newer.
 
 ```
-git clone https://github.com/VM369/CFDE-Data-Quality-Assessment.git
+git clone https://github.com/cfde-sustainability/CFDE-Data-Quality-Assessment.git
 cd CFDE-Data-Quality-Assessment
 pip install -r requirements.txt
 ```
